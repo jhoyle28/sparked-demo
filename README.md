@@ -1,2 +1,2 @@
-# sparked-demo
-###### cool thing
+# Sparked Demo
+Data used in game
